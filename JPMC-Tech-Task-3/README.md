@@ -27,7 +27,7 @@ Use Perspective to create the chart for the trader’s dashboard.
 	<li>Update the graph to also track the historical upper and lower bounds of the stocks' ratio</li>
 	<li>Trigger 'alerts' (i.e. draw red lines) on the graph whenever the bounds are crossed by the calculated ratio in a specific time period</li>
 	<li>Upload a git patch file as the submission to this task</li>	
-  	<li>Upload a video detailing your process and work</li>
+  	<li>Upload a video detailing your process and Work</li>
 </ol>
 
 <h2 id="installation" >Setup / Installation</h2>
