@@ -1,8 +1,8 @@
 # JP-Morgan-Chase-Virtual-Experience
 
-##This repository consists of patch files for the JP Morgan Chase Software Engineering Virtual Experience program. 
+# This repository consists of patch files for the JP Morgan Chase Software Engineering Virtual Experience program. 
 
-I have worked on the following tasks during the internship
+# I have worked on the following tasks during the internship
 1. Interface with a stock price data feed Click here to see Task-1
 Interface with a stock price data feed and set your system for analysis of data
 Finalcial Data
